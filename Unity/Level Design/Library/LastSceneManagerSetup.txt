@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/10653402/Documents/2670UVU/UnityMasterProj/Assets/Scenes/LSVolcanoHouseLevel01.unity
+- path: Assets/LevelYellowStone.unity
   isLoaded: 1
   isActive: 1
