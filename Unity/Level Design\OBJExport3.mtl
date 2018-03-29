@@ -1,0 +1,65 @@
+newmtl Orange
+Kd 0.312 0.1133009 0.01497599
+illum 2
+
+newmtl Light_Green
+Kd 0.0874119 0.153 0.042228
+illum 2
+
+newmtl Arrows
+Kd 0.136 0.0611524 0.0544
+illum 2
+
+newmtl Dark_Green
+Kd 0.029808 0.108 0.04167234
+illum 2
+
+newmtl lambert1
+Kd 0.5 0.5 0.5
+illum 2
+
+newmtl Visor
+Kd 0.022 0.022 0.022
+illum 2
+
+newmtl Sides
+Kd 0.387 0.3085214 0.248067
+illum 2
+
+newmtl Side_Top
+Kd 0.32 0.2455214 0.18816
+illum 2
+
+newmtl Side_Dark
+Kd 0.124 0.1056486 0.091512
+illum 2
+
+newmtl Pole
+Kd 0.252 0.252 0.252
+illum 2
+
+newmtl Lamp_Head
+Kd 0.046 0.03129183 0.019964
+illum 2
+
+newmtl Default_Prototype
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl Trigger
+Kd 0.2441068 0.7153412 0.9485294
+illum 2
+
+newmtl Air
+Kd 0.6773356 0.7941176 0.7941176
+illum 2
+
+newmtl Lava
+Kd 0.7279412 0.1298072 0.09634516
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
